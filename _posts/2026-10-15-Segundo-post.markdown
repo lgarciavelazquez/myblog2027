@@ -5,4 +5,5 @@ title:  "Este es el 2º post!"
 categories: posts
 ---
  
- Este es el 2º post
+ Este es el 2º post. Actualizado
+ 
